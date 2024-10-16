@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:weather/views/loading_screen.dart';
-import 'package:weather/views/location_screen.dart';
 import 'package:weather/shared/colors_app.dart';
 
 void main() {
