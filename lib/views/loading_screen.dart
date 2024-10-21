@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:geolocator/geolocator.dart';
 import 'package:weather/utilities/functions/get_location.dart';
 
 class LoadingScreen extends StatefulWidget {
